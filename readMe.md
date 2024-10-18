@@ -1,1 +1,1 @@
-# GPU cour
+# GPU course
